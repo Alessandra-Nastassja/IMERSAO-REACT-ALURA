@@ -4,6 +4,15 @@
 <p align="center">
   The project is special to learn how to react with @Alura.
 </p>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/Alessandra-Nastassja/IMERSAO-REACT-ALURA?color=%23a72020">
+  <a href="https://github.com/Alessandra-Nastassja/PROJECT-CALCULATOR/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alessandra-Nastassja/IMERSAO-REACT-ALURA?color=%23a72020">
+  </a>
+  <a href="https://www.linkedin.com/in/alessandra-nastassja/">
+    <img alt="Made by Alessandra Nastassja" src="https://img.shields.io/badge/made%20by-AlessandraNastassja-%23a72020">
+  </a>
+</p>
 
 ******
 
