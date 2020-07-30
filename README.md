@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/27302446/86910117-905dbb00-c0ef-11ea-8b19-8498cc7768a3.png" />
+  <img src="https://raw.githubusercontent.com/Alessandra-Nastassja/IMERSAO-REACT-ALURA/master/src/assets/img/logo.png" width="200px" />
 </p>
-<h1 align="center">Devflix</h1>
 <p align="center">
   The project is special to learn how to react with @Alura.
 </p>
