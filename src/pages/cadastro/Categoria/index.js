@@ -11,6 +11,17 @@ function CadastroCategoria() {
             <Link to="/">
                 Ir para home
             </Link>
+
+            <form>
+                <label>
+                    Nome da Categoria:
+                    <input type="text" />
+                </label>
+
+                <button>
+                    Cadastrar
+                </button>
+            </form>
         </PageDefault>
     )
 }
