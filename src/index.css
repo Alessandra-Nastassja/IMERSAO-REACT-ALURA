@@ -1,14 +1,17 @@
+/* Reset todas as propriedades do menu */
 * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
 
+/* Colocar variáveis no CSS */
 :root {
   --primary: #a72020;
   --black: #222222;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
+  --grayDark: #141414;
   --white: #FFFFFF;
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
