@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Alessandra-Nastassja/IMERSAO-REACT-ALURA/master/src/assets/img/logo.png" width="200px" />
 </p>
 <p align="center">
-  <a href="https://imersao-react-alura-lake.vercel.app/">Demo</a>
+  <a href="https://imersao-react-alura-lake.vercel.app/">Demo</a><br>
   The project is special to learn how to react with @Alura.
 </p>
 <p align="center">
