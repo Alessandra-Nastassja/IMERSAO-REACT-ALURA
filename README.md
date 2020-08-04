@@ -21,6 +21,8 @@
 
 Show! This is the prototype of the project, click [here](https://www.figma.com/file/S0kNP36hbN7Iin1LDhMpNI/AluraFlix?node-id=0%3A1).
 
+![Screenshot from 2020-08-03 23-30-10](https://user-images.githubusercontent.com/27302446/89246374-5e9e1e00-d5e1-11ea-9a0c-875864f596ee.png)
+
 ******
 
 ### References: 🔨
