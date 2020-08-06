@@ -15,6 +15,14 @@
   </a>
 </p>
 
+## Aulas: ⭐️
+
+* 1º (**React Components e AluraFlix**) - 27/07: ✔️
+* 2º (**Roteamento e state**) - 28/07: ✔️
+* 3º (**Formulários reutilizáveis e mais components**) - 29/07: ✔️
+* 4º (**Ajax, validação e o back-end**) - 30/07: ⚠️
+* 5º (**Gerenciamento de videos com React e JavaScript**) - 31/07: ⚠️
+
 ******
 
 ### Result: ✔️
